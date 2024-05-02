@@ -12,16 +12,7 @@ const Stack = createStackNavigator();
 
 function MainNavigator() {
   return (
-    <Stack.Navigator
-      screenOptions={{
-        headerTitleStyle: {
-          fontWeight: "bold",
-          textAlign: "center",
-          alignSelf: "center",
-          flex: 1,
-        },
-      }}
-    >
+    <Stack.Navigator>
       <Stack.Screen name="Recetas" component={HomeScreen} />
       <Stack.Screen name="Detalle" component={RecipeScreen} />
       <Stack.Screen name="Perros" component={DogsScreen} />
@@ -37,9 +28,6 @@ function DrawerStack() {
     <Drawer.Navigator
       drawerPosition="left"
       initialRouteName="Main"
-      drawerStyle={{
-        width: 250,
-      }}
       screenOptions={{ headerShown: false }}
       drawerContent={({ navigation }) => (
         <DrawerContainer navigation={navigation} />

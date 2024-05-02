@@ -7,6 +7,13 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
     flex: 1,
   },
+  containerImage: {
+    flex: 1,
+    alignItems: "center",
+    width: viewportWidth,
+    height: 100,
+    opacity: 0.9,
+  },
 
   imageContainer: {
     flex: 1,
@@ -33,10 +40,17 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
 
-  infoDescriptionRecipe: {
+  infoText: {
     textAlign: "center",
     fontSize: 14,
-    margin: 15,
+    margin: 12,
+  },
+  backgroundImage: {
+    opacity: 0.1,
+    width: 300,
+    height: 300,
+    marginLeft: 40,
+    resizeMode: "contain",
   },
 });
 

@@ -6,6 +6,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "center",
+    backgroundColor: "rgba(220, 180, 240, 0.4)",
   },
   container: {
     flex: 1,
@@ -14,7 +15,7 @@ const styles = StyleSheet.create({
   },
   btnContainer: {
     position: "absolute",
-    top: -280,
+    top: -250,
     right: -240,
   },
   btnIcon: {
