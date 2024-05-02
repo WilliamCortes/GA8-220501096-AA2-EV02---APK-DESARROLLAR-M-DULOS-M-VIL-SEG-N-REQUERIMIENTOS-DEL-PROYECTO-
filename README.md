@@ -1,8 +1,6 @@
-# William Alfonso Cortés Romero
+- **Evidencia:** GA8-220501096-AA2-EV02 - APK (Desarrollar Módulos Móvil Según Requerimientos del Proyecto)
 
-![William Alfonso Cortés Romero](https://media.licdn.com/dms/image/C5603AQE-tuKM83aVmg/profile-displayphoto-shrink_100_100/0/1627499263426?e=1720051200&v=beta&t=mkcyQT33hCo1YR2JF3lYqlqs-EYW2GUx_HP2dNtiPaA)
-
-## Detalles del Aprendizaje
+## Detalles de la Evidencia
 
 - **Aprendiz:** William Alfonso Cortés Romero
 - **Instructor:** Carlos Andres Mora Agudelo
@@ -14,5 +12,3 @@
 - **Año:** 2024
 
 ## Actividad Realizada
-
-- **Evidencia:** GA8-220501096-AA2-EV02 - APK (Desarrollar Módulos Móvil Según Requerimientos del Proyecto)
